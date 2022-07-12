@@ -1,6 +1,8 @@
 # Requeriments
 + Unix-based operating system like linux or mac. 
 
++ git
+
 + Python 3
 ## Installation
 Install python
