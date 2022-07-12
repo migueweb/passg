@@ -7,7 +7,7 @@
 ## Installation
 Install python
 ```
-$ sudo apt install python3
+sudo apt install python3
 ```
 [Download Python for mac](https://www.python.org/downloads/)
 
