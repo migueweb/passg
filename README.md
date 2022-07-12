@@ -3,7 +3,7 @@
 
 + Python 3
 ## Installation
-Python Installation
+Install python
 ```
 $ sudo apt install python3
 ```
@@ -23,12 +23,15 @@ python3 passg.py
 ```
 
 ## Preview
-![passg screeshot](./passg.png)
+![passg screenshot](./img/passg.png)
 
 ## Create Aliases to passg
 If you installed passg in your home directory you can paste this into your **.bashrc**
 ```
 alias passg="cd passg && python3 passg.py"
 ```
-### Result
-![passg gif]()
+
+You can now run passg from the terminal using the following command
+```
+passg
+```
