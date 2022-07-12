@@ -28,7 +28,7 @@ python3 passg.py
 ## Create Aliases to passg
 If you installed passg in your home directory you can paste this into your **.bashrc**
 ```
-alias passg="cd && cd passg && python3 passg.py"
+alias passg="cd ~ && cd passg && python3 passg.py"
 ```
 
 You can now run passg from the terminal using the following command
